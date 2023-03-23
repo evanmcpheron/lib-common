@@ -1,7 +1,11 @@
 {
-  "name": "mickey-fitness",
-  "version": "0.0.8",
+  "name": "mickey-fitness-library",
+  "version": "0.0.1",
   "description": "Component and types library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanmcpheron/lib-common"
+  },
   "scripts": {
     "rollup": "rollup -c",
     "test": "jest",
